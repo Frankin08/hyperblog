@@ -9,6 +9,8 @@ Un blog increible para el [curso de git y gitHub](https://platzi.com/cursos/git-
 * El verdadero amor por la buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Fredy.
+
+
 ![Imagen Ilustrativa](https://descargarsoftwaregratis.com/wp-content/uploads/2022/05/Flujo-de-trabajo-en-equipo-con-Git.jpg)
 
 Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor ve a ver el curso.
