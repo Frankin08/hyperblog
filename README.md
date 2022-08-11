@@ -11,6 +11,7 @@ Un blog increible para el [curso de git y gitHub](https://platzi.com/cursos/git-
 * Las personalidades multiples de Fredy.
 * Creado por el increible Platzi Team.
 * incluye ejemplo en windows linux y mac
+* Disponible para todas la edades
 
 ![Imagen Ilustrativa](https://descargarsoftwaregratis.com/wp-content/uploads/2022/05/Flujo-de-trabajo-en-equipo-con-Git.jpg)
 
